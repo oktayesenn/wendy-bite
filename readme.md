@@ -14,14 +14,14 @@ wants her website to look, and provided the text. Make her site!
 ## Instructions
 
 1. Fork and clone this repository.
-1. Change into the new directory.
+1. Change into the new directory and create a new development branch.
 1. Fulfill the listed requirements.
 
 Starter code is available in [`lib/`](lib/). You are required to turn in your
 submission by making a pull request on the original repository.
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 9:00am.
+the next morning by 10:00am ET.
 
 ## Requirements
 
