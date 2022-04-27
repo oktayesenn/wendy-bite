@@ -14,7 +14,7 @@ wants her website to look, and provided the text. Make her site!
 ## Instructions
 
 1. Fork and clone this repository.
-1. Change into the new directory and create a new development branch.
+1. Change into the new directory.
 1. Fulfill the listed requirements.
 
 Starter code is available in [`lib/`](lib/). You are required to turn in your
