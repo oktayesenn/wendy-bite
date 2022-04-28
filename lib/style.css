@@ -1,0 +1,55 @@
+
+body {
+    background-color:lightseagreen;
+    margin: 100px;
+    padding: 50px;
+    grid-row:initial;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    color: white;
+    border: 5px solid black;
+    width: 30em;
+    height: 60em;
+    justify-content: flex-end;
+
+}
+nav {
+    padding: 10px;
+    text-align: center;
+    color: greenyellow;
+    font-family: font-family: 'Fresca', sans-serif;
+}
+img {
+    height: 300px;
+    background-color: ;
+    padding: 20px;
+    border: 5px solid white;
+    margin: 50px;
+    width: auto;
+    display: block;
+    float: right;
+  }
+  p {
+      text-align:inherit;
+      color: lightgoldenrodyellow;
+  }
+  h1,h2 {
+      text-align: center;
+      color: aqua;
+  }
+  .res {
+      color: pink;
+      
+  }
+  .active {
+      color: antiquewhite;
+  }
+  h1{
+    border: 5px solid rgb(235, 190, 190);
+  }
+  footer {
+      color: aquamarine;
+  }
+  .social {
+      color:powderblue;
+  }
